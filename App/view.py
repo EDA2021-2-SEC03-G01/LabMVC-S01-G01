@@ -76,7 +76,7 @@ while True:
         tags = loadTags()
         print('Total de tags cargados: ' + str(lt.size(tags)))
 
-    pass 
+    pass
 
     else:
         sys.exit(0)
