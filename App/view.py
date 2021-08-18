@@ -42,7 +42,7 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
-    print("3- Cargar Tags de libros")
+    print("3- Cargar Tags de los libros")
     print("0- Salir")
 
 
